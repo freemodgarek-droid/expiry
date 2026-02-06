@@ -2,7 +2,7 @@
 -- CONFIGURATION BY @reza new
 -- ==========================================
 local PASSWORD = "reza new"
-local EXPIRED_DATE = "2026-03-01" -- Format: YYYY-MM-DD
+local EXPIRED_DATE = "2026-02-01" -- Format: YYYY-MM-DD
 local CURRENT_DATE = os.date("%Y-%m-%d")
 
 -- 1. CEK EXPIRED
